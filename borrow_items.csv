@@ -1,0 +1,13 @@
+item_id,item_name,category,description,condition,availability,owner
+1,Scientific Calculator,Electronics,Calculator for engineering mathematics and scientific calculations,Good,Available,Rahul
+2,Engineering Drawing Kit,Stationery,"Drawing instruments including compass, divider and scale",Excellent,Available,Priya
+3,Laptop,Electronics,"Laptop for programming, Python development and college projects",Good,Available,Arjun
+4,Python Programming Book,Books,Beginner friendly Python programming and coding textbook,Good,Available,Sneha
+5,DSA Textbook,Books,Data structures and algorithms textbook for computer science students,Excellent,Available,Kiran
+6,Headphones,Electronics,Wireless headphones for online classes and study sessions,Good,Available,Megha
+7,College Backpack,Accessories,"Spacious backpack for carrying books, laptop and stationery",Good,Available,Vikram
+8,Arduino Uno Kit,Electronics,Microcontroller development kit for electronics and IoT projects,Excellent,Available,Ananya
+9,Machine Learning Book,Books,"Introduction to machine learning, artificial intelligence and deep learning",Good,Available,Rohit
+10,USB Pendrive,Accessories,32GB USB storage device for transferring academic files and projects,Good,Available,Divya
+11,Webcam,Electronics,External webcam for video conferencing and online meetings,Good,Available,Akhil
+12,Operating Systems Book,Books,"Textbook covering operating systems, processes and memory management",Excellent,Available,Pooja
